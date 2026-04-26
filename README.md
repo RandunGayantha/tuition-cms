@@ -78,7 +78,7 @@ activity_log    — log_id, action_type, table_name, description, action_time
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tuition-cms.git
+git clone https://github.com/RandunGayantha/tuition-cms.git
 ```
 
 Or download the ZIP from GitHub and extract it.
