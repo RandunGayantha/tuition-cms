@@ -188,15 +188,6 @@ tuition/
 
 ---
 
-## 👥 Team Members
-
-| Name | Index Number |
-|------|-------------|
-| Member 1 | XXXXXXXX |
-| Member 2 | XXXXXXXX |
-| Member 3 | XXXXXXXX |
-
----
 
 ## 📋 Module Details
 
