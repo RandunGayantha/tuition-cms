@@ -1,0 +1,13 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor config
+.vscode/
+.idea/
+
+# Ignore sensitive config (optional - db.php has passwords)
+# php/db.php
+
+# Ignore logs
+*.log
